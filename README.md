@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Welcome%20to%20YeaJi's%20Github%20🐶&fontSize=55&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Welcome%20to%20YeaJi's%20Github%20🐶&fontSize=55)
 <!-- ## 오뚝이 정신 개발자, 윤예지입니다. -->
 
 <!--
