@@ -16,30 +16,35 @@
 > 
 > 저는 뛰어난 적응력과 오뚝이 정신으로 직접 깨지고 부딪히며 효율적이면서 유지보수성이 뛰어난 코드를 구현하는 개발자로 성장하고 싶습니다.  또한, 핵심 기술에 대해 심화 학습하며 회사 목표 실현에 기여하는, 실질적인 성과를 만들어내는 개발자가 되는 것이 목표입니다.
 -->
-
+<div align="center">
+ 
 ### 📞 Contact
+<a href="mailto:dpwl0974@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mang-kko.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://mang-kko.tistory.com"/></a> 
+
+<!--
 >  📧 dpwl0974@gmail.com
 > 
 >  <img src = "https://github.com/user-attachments/assets/bdc3aa3a-03d3-4fa2-b184-5a175d39b576" width="15">  https://mang-kko.tistory.com
 > 
 >  <img src = "https://github.com/user-attachments/assets/971dee57-3460-47c1-9ebe-71e3ed833d0c" width="15"> https://github.com/dpwl0974
+-->
 
-<br>
-
+<!--
 ### 🏫 Education
 >  **한경대학교 |** 2020.03 ~ 2025.02 (졸업)
 >  * 소프트웨어 & 서비스컴퓨팅학과
 >  *  3.82 / 4.5
-
+-->
 <br>
-
+<!--
 ### 🏅 Certificate & Awards
 > - **정보처리기사** **|** 2023.06 (합격)
 > - **SQLD |** 2024.12  (합격)
 > - **2024 BRGIHT MAKERS EXPO 제16회 캡스톤디자인 경진대회** **|** 2024.11 (대상)
+-->
 
-<br>
- 
+
 ### 💻 Tech Stack
  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  <br>
@@ -58,4 +63,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
 
+<br>
 
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dpwl0974&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpwl0974&layout=compact&theme=tokyonight)
+
+</div>
